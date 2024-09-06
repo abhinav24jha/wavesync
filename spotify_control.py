@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import time
 
-CLIENT_ID = 'f7ab72e8ac554281bc5c77e718f9f3ec'
-CLIENT_SECRET = 'a613da51d1694aeb8a6fdd1dbc442842'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://localhost:8888/callback'
 SCOPE = 'user-modify-playback-state user-read-playback-state user-read-currently-playing'
 
